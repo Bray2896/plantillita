@@ -1,5 +1,6 @@
 {
     "name": "fuecoco/ardiprueba",
+    "version": "1.0.0",
     "type": "project",
     "description": "Prueba composer.",
     "keywords": ["laravel", "framework"],
